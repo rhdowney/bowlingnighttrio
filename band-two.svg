@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" viewBox="0 0 300 200">
+  <rect width="300" height="200" fill="#26364a"/>
+  <text x="150" y="92" fill="#fff" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">Another band photo</text>
+  <text x="150" y="122" fill="#ddd" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">Replace with your image</text>
+</svg>
+
